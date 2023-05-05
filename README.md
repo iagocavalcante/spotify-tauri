@@ -1,6 +1,9 @@
 # Tauri + Next.js Template
 
-![Tauri window screenshot](public/tauri-nextjs-template_screenshot.png)
+Using boilerplate to clone spotify interface and use in desktop app. 
+
+<img width="1680" alt="Screenshot 2023-05-04 at 10 12 38 PM" src="https://user-images.githubusercontent.com/5131187/236360024-733b96f9-86ef-4f60-a303-13c0d1598dde.png">
+
 
 This is a [Tauri](https://tauri.app/) project template using [Next.js](https://nextjs.org/),
 bootstrapped by combining [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
